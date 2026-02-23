@@ -1,1 +1,3 @@
-# Mehar-Madnani-ODT-WEEK-8
+#week 8 game: F1 Reaction Game 
+Project Discription:Our project is an interactive F1 Reaction Time Game that simulates the starting sequence of a Formula 1 race. The system begins with five red LED lights illuminating sequentially, replicating the official race countdown. After a brief delay, the lights switch to green and an audible start tone is generated through a buzzer. The player must respond as quickly as possible by pressing a button once the GO signal is given. The system then calculates and displays the player’s reaction time in milliseconds. If the player presses the button before the GO signal, the system detects a false start and restarts the round. Upon a valid reaction, a stepper motor rotates fully to simulate a race car launch.
+Game Runthrough : https://youtu.be/qJpAraqMKF4
